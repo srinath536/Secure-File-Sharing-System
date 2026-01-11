@@ -1,0 +1,23 @@
+{
+    "7888bb0c-127e-4742-9a22-e0d2f3b2d440": {
+        "path": "files\\7888bb0c-127e-4742-9a22-e0d2f3b2d440.txt",
+        "password_hash": "1bd103bbc5ca09adb8c94c38b2c837b061f1a426eb6c7a1fc77c7f1da00f77db",
+        "expiry": 1768057192.0832443,
+        "location": "chennai",
+        "status": "ACTIVE"
+    },
+    "4f1ac27a-8483-45d1-a611-d3310b6b7c40": {
+        "path": "files\\4f1ac27a-8483-45d1-a611-d3310b6b7c40.txt",
+        "password_hash": "fe712eeb749d67e91feaf5def4b46230136ddc30fc30c01c3392c3e903f7e8af",
+        "expiry": 1768059226.1327138,
+        "location": "chennai",
+        "status": "ACTIVE"
+    },
+    "6a3824b0-d608-4756-9781-d97167efaaaa": {
+        "path": "files\\6a3824b0-d608-4756-9781-d97167efaaaa.txt",
+        "password_hash": "1bd103bbc5ca09adb8c94c38b2c837b061f1a426eb6c7a1fc77c7f1da00f77db",
+        "expiry": 1768119661.8931317,
+        "location": "chennai",
+        "status": "ACTIVE"
+    }
+}
