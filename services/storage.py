@@ -22,7 +22,7 @@ def save_metadata(data):
 def hash_password(password):
     return hashlib.sha256(password.encode()).hexdigest()
 
-# 🔥 THIS IS THE IMPORTANT FIX
+
 def secure_file(file, password, ttl_hours, location):
     content = file.read().decode()
 
